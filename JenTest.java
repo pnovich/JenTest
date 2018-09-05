@@ -5,7 +5,7 @@ public class JenTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(("jenkins!!!"));
+        System.out.println(("jenkins2!!!"));
     }
     
 }
